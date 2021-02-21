@@ -6,4 +6,4 @@
 
 ### Follow me:
 
-[![Blog](https://img.shields.io/badge/Blog-b8b8b8)](https://teletype.in/@grchff) [![Telegram](https://img.shields.io/badge/Telegram-259bd8)](https://t.me/grchff) [![Linkedin](https://img.shields.io/badge/Linkedin-2764ac)](https://www.linkedin.com/in/михаил-горячев-183230198/)
+[![Blog](https://img.shields.io/badge/Blog-b8b8b8)](https://teletype.in/@grchff) [![Telegram](https://img.shields.io/badge/Telegram-259bd8)](https://t.me/grchff) [![Linkedin](https://img.shields.io/badge/Linkedin-2764ac)](https://www.linkedin.com/in/grchff/)
